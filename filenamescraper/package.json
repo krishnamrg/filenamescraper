@@ -1,0 +1,26 @@
+{
+  "name": "webscrape",
+  "version": "1.0.0",
+  "description": "filenames webscraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fileids"
+  ],
+  "repository": {
+    "type": "git",
+      "url": "https://github.com/krishnamrg/filenamescraper"
+  },
+  "author": "krishnamg",
+  "email": "krishnamrajgoud@github.com",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-html-parser": "^1.1.15",
+    "puppeteer": "^1.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
